@@ -10,7 +10,6 @@
   /* this ensures that all content is centered on screens wider than 1600px */
   font-family: 'Helvetica Neue', Arial, sans-serif;
 }
-
 .header {
   height: 100vh;
   min-height: 600px;
@@ -133,10 +132,6 @@
   font-weight: normal;
   width: 60%;
   text-align: center;
-}
-.table {
-  display: flex;
-  flex-wrap: wrap;
 }
 .table__space {
   margin-top: 60px;
