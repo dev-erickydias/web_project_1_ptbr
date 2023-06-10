@@ -178,6 +178,7 @@
   background-repeat: no-repeat;
   background-size: 867px 637px;
   margin: 100px auto 0;
+  background-color: #f2f2f2;
 }
 .feynman__title{
   width: 775px;
@@ -188,6 +189,7 @@
   top: 0;
   left: 25%;
   align-items: center;
+  padding-top: 100px;
 }
 /* Configuracoes dos titulos da tabela e do texto dentro delas */
 .feynman__title-first{
@@ -236,7 +238,7 @@
   line-height: 1.15;
   font-size: 60px;
   font-weight: bold;
-  color: #f2f2f2;
+  color: white;
   z-index: 2;
   position: relative;
   padding: 90px 0 0 0;
@@ -245,7 +247,7 @@
   line-height: 34px;
   font-size: 24px;
   font-weight: normal;
-  color: #f2f2f2;
+  color: white;
   width: 60%;
   margin-bottom: 0;
 }
@@ -267,13 +269,13 @@
   line-height: 1.15px;
   font-size: 24px;
   font-weight: bold;
-  color: #f2f2f2;
+  color: white;
 }
 .table__text_theme_dark {
   line-height: 1.2;
   font-size: 18px;
   font-weight: normal;
-  color: #f2f2f2;
+  color: white;
 }
 .kaufman__triangle {
   position: absolute;
@@ -283,5 +285,66 @@
   z-index: 1;
 }
 .footer{
-  margin: 100px auto 0;
+  background-color:#000;
+  display: flex;
+  justify-content: center;
+  min-height: 350px;
+  padding: 60px 0 40px 0;
+  box-sizing: border-box;
+}
+.footer__columns{
+  width: 90%;
+  display: flex;
+  justify-content: space-between;
+}
+.footer__column_content_copyright{
+  display: flex;
+  flex-direction: column;
+  flex-basis: 711px;
+  justify-content: space-between;
+}
+.footer__logo{
+  width: 183px;
+  height: 35px;
+}
+.footer__author{
+  color: white;
+  margin: 18px 0;
+  line-height: 25px;
+  font-size: 18px;
+  font-weight: normal;
+}
+.footer__column_content_about{
+  display: flex;
+  flex-direction: column;
+  row-gap: 20px;
+}
+.footer__column-heading{
+  color: white;
+  line-height: 30px;
+  font-size: 18px;
+  font-weight: bold;
+}
+.footer__list{
+  list-style-type: none;
+  padding-inline-start: 0px;
+  margin: 0;
+}
+.footer__column-links{
+  list-style-type: none;
+  text-decoration: none;
+  color: white;
+  margin-left: 0;
+  line-height: 30px;
+  font-size: 18px;
+  font-weight: normal;
+}
+.footer__column_content_social{
+  display: flex;
+  flex-direction: column;
+  row-gap: 20px;
+}
+.footer__social-icon{
+  width:16px;
+  margin-right: 10px;
 }
