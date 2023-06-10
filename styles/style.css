@@ -196,6 +196,7 @@
   font-weight: bold;
   display: flex;
   text-align: center;
+  padding: 100PX 0 0 0;
 }
 .feynman__subtitle{
   line-height: 51px;
