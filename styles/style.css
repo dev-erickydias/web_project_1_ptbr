@@ -100,7 +100,7 @@
   align-content: space-between;
   gap: 30px;
 }
-.paragraph {
+.two-columns__paragraph {
   font-weight: normal;
   line-height: 34px;
   font-size: 24px;
@@ -157,7 +157,7 @@
 .table__text {
   padding-top: 20px;
   line-height: 1.2;
-  font-size: 12px;
+  font-size: 18px;
   font-weight: normal;
 }
 /*=========== Aqui começa as configurações da section Feynman========= */
