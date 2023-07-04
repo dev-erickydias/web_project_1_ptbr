@@ -63,7 +63,11 @@
   top: 64px;
   right: 0;
   z-index: 0;
-  transform: rotate(45deg);
+  animation: rotation 20s infinite linear;
+}
+@keyframes rotation {
+  0% { transform: rotate(15deg); }
+  100% { transform: rotate(360deg); }
 }
 .header__main-illustration {
   width: 756px;
