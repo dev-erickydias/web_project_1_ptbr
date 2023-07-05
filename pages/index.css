@@ -40,6 +40,9 @@
 @import url(../blocks/cards/__text/cards__description.css);
 
 /* bloco video */
+@import url(../blocks/videos/video.css);
+@import url(../blocks/videos/__iframe/video__iframe.css);
+@import url(../blocks/videos/__iframes/video__ifremes.css);
 
 /* bloco oaklay */
 
