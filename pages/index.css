@@ -32,6 +32,7 @@
 @import url(../blocks/two-columns/two-columns.css);
 
 /* bloco techniques */
+@import url(../blocks/techniques/technique.css);
 @import url(../blocks/cards/cards.css);
 @import url(../blocks/cards/__image/card__image.css);
 @import url(../blocks/cards/__item/cards__item.css);
