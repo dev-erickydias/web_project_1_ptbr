@@ -39,8 +39,15 @@
 @import url(../blocks/feyman/__subtitle/feynman__subtitle.css);
 @import url(../blocks/feyman/__link/feynman__link.css);
 
-/* bloco Digits */
+/* bloco Digits e seu modificador */
 @import url(../blocks/digits/digits.css);
+@import url(../blocks/table/teble.css);
+@import url(../blocks/table/__cell/table__cell.css);
+@import url(../blocks/table/__heading/teble__heading.css);~
+@import url(../blocks/table/__text/teble__text.css);
+/* Modificador */
+@import url(../blocks/table/theme/table__cell_theme_dark.css);
+
 
 /* bloco khan */
 
