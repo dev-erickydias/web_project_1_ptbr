@@ -32,6 +32,11 @@
 @import url(../blocks/two-columns/two-columns.css);
 
 /* bloco techniques */
+@import url(../blocks/cards/cards.css);
+@import url(../blocks/cards/__image/card__image.css);
+@import url(../blocks/cards/__item/cards__item.css);
+@import url(../blocks/cards/__title/cards__title.css);
+@import url(../blocks/cards/__text/cards__description.css);
 
 /* bloco video */
 
