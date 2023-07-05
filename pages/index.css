@@ -14,6 +14,7 @@
 @import url(../blocks/header/__square-pic/header__square-pic.css);
 @import url(../blocks/header/__subtitle/header__subtitle.css);
 @import url(../blocks/header/title/header__title.css);
+@import url(../blocks/logo/logo__place_header/__place_header.css);
 
 /* toda as sections de titulos */
 @import url(../blocks/section-title/section-title.css);
@@ -21,7 +22,7 @@
 
 /* to as sectios de subtitulos */
 @import url(../blocks/section-subtitle/section-subtitle.css);
-@import url(../blocks/section-subtitle/section__subtitle_theme_dark/section-subtitle_theme_dark.css);
+@import url(../blocks/section-subtitle/__theme_dark/section-subtitle_theme_dark.css);
 
 /* bloco description */
 @import url(../blocks/description/description.css);
@@ -46,18 +47,32 @@
 @import url(../blocks/digits/digits.css);
 @import url(../blocks/table/teble.css);
 @import url(../blocks/table/__cell/table__cell.css);
-@import url(../blocks/table/__heading/teble__heading.css);~
+@import url(../blocks/table/__heading/teble__heading.css);
 @import url(../blocks/table/__text/teble__text.css);
-/* Modificador */
-@import url(../blocks/table/theme/table__cell_theme_dark.css);
+
 
 
 /* bloco khan */
 
 /* bloco kaufman */
+@import url(../blocks/kaufman/kaufman.css);
+@import url(../blocks/kaufman/__triangle/kaufman__triangle.css);
+/* Modificador */
+@import url(../blocks/table/theme/table__cell_theme_dark.css);
 
 /* bloco resources */
 
 /* bloco footer */
-
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__author/footer__autror.css);
+@import url(../blocks/footer/__logo/footer__logo.css);
+@import url(../blocks/footer/__column/footer__column.css);
+@import url(../blocks/footer/__column/content/__about/footer__column_content_about.css);
+@import url(../blocks/footer/__column/content/__copyrigth/footer__column_content_copyrigth.css);
+@import url(../blocks/footer/__column/content/__social/footer__column_content_social.css);
+@import url(../blocks/footer/__columns-heading/footer__column-heading.css);
+@import url(../blocks/footer/__columns-links/footer__links.css);
+@import url(../blocks/footer/__columns/footer__columns.css);
+@import url(../blocks/footer/__list/footer__list.css);
+@import url(../blocks/footer/__social-icon/footer__social-icon.css);
 

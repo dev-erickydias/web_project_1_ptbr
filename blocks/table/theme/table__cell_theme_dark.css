@@ -1,0 +1,14 @@
+.table_theme_dark {
+  margin: 0;
+  row-gap: 80px;
+  z-index: 2;
+}
+.table__cell_theme_dark {
+  width: 200px;
+}
+.table__heading_theme_dark {
+  color: white;
+}
+.table__text_theme_dark {
+  color: white;
+}
