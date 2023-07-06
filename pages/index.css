@@ -14,7 +14,7 @@
 @import url(../blocks/header/__square-pic/header__square-pic.css);
 @import url(../blocks/header/__subtitle/header__subtitle.css);
 @import url(../blocks/header/title/header__title.css);
-@import url(../blocks/logo/__place_header.css);
+@import url(../blocks/header/__logo/header__logo.css);
 @import url();
 
 /* toda as sections de titulos */
