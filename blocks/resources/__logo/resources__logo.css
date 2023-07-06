@@ -1,0 +1,7 @@
+.resources__logo {
+  list-style-type: none;
+  max-width: 270px;
+}
+.resources__logo img {
+  width: 100%;
+}
