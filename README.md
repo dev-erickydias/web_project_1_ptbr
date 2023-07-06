@@ -1,6 +1,6 @@
 # SINGLE PAGE
 
-**Este projeto não contém responsividade.** Ele foi criado para demonstrar como é possível usar HTML e CSS para criar algo simples e eficaz. Foi Adicionado animações com CSS e um formulario de inscrição.
+**Este projeto não contém responsividade.** Ele foi criado para demonstrar como é possível usar HTML e CSS para criar algo simples e eficaz. Foi Adicionado animações com CSS.
 
 ## Neste projeto foram utilizadas as seguintes tecnologias:
 
