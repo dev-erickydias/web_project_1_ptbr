@@ -1,4 +1,4 @@
-.logo__place_header {
+.header__logo {
   width: 154px;
   height: 31px;
   position: absolute;
@@ -6,4 +6,3 @@
   top: 30px;
   z-index: 4;
 }
- 
