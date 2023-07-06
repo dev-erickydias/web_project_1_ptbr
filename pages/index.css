@@ -26,7 +26,6 @@
 @import url(../blocks/section-subtitle/__theme_dark/section-subtitle_theme_dark.css);
 
 /* bloco description */
-@import url(../blocks/description/description.css);
 @import url(../blocks/two-columns/two-columns.css);
 @import url(../blocks/two-columns/__brief/brief.css);
 @import url(../blocks/two-columns/__main-text/main-text.css);
